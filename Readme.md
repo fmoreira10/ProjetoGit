@@ -10,7 +10,7 @@ Este projeto foi criado para aprender e praticar o uso do Git e GitHub. Ele serv
 - GitHub
 
 ## 💡 Como visualizar o projeto
-Você pode acessar este repositório clicando [aqui](URL_DO_REPOSITORIO) (adicione o link do seu repositório).
+Você pode acessar este repositório clicando [aqui](https://github.com/fmoreira10/ProjetoGit.git) (adicione o link do seu repositório).
 
 ## ⚖️ Licença
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
