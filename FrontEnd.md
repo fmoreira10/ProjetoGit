@@ -1,1 +1,1 @@
-Aquei eu vou desenvolver e criar os arquivos HTML, CSS, JS 
+Aquei eu vou desenvolver e criar os arquivos HTML, CSS, JS para meu primeiro projeto.
