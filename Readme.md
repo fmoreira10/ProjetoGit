@@ -16,5 +16,5 @@ Você pode acessar este repositório clicando [aqui](URL_DO_REPOSITORIO) (adicio
 Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-👨‍💻 Desenvolvido por **Seu Nome**  
-📫 Contato: [Seu LinkedIn](URL_DO_SEU_LINKEDIN)
+👨‍💻 Desenvolvido por Fernando Alvarenga Moreira  
+📫 Contato: www.linkedin.com/in/fernando-timoreira
