@@ -1,20 +1,35 @@
-# Meu Primeiro Projeto 🚀
+# 🧾 Sistema de Caixa - Padaria
 
-Olá! Esse é o meu primeiro projeto.
+Este projeto é um sistema simples de caixa para uma padaria, com interface web e backend em Flask. Ele permite listar produtos disponíveis, adicionar produtos a um pedido, finalizar o pedido e visualizar o total de vendas acumulado.
 
-## 📌 Sobre o projeto
-Este projeto foi criado para aprender e praticar o uso do Git e GitHub. Ele servirá como meu primeiro repositório público para que empresas possam visualizar meu trabalho.
+## 🚀 Funcionalidades
 
-## 🛠️ Tecnologias utilizadas
-- Git
-- GitHub
+- Listar produtos disponíveis
+- Adicionar produto e quantidade ao pedido
+- Finalizar pedido e exibir valor total
+- Exibir o total de vendas acumulado
 
-## 💡 Como visualizar o projeto
-Você pode acessar este repositório clicando [aqui](https://github.com/fmoreira10/ProjetoGit.git) (adicione o link do seu repositório).
+## 🛠️ Tecnologias Utilizadas
 
-## ⚖️ Licença
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+### Frontend:
+- HTML5
+- CSS (via [Bootstrap 5](https://getbootstrap.com/))
+- JavaScript (fetch API)
 
----
-👨‍💻 Desenvolvido por Fernando Alvarenga Moreira  
-📫 Contato: www.linkedin.com/in/fernando-timoreira
+### Backend:
+- Python 3
+- Flask
+- Organização em `routes/`, `models/`, `templates/`, `static/`
+
+## 📁 Estrutura do Projeto
+
+```bash
+padaria_sistema/
+├── frontend/          # Arquivos HTML/JS separados (opcional)
+├── models/            # Lógica de dados e manipulação
+├── routes/            # Rotas da API Flask
+├── static/            # Arquivos estáticos (JS, CSS, imagens)
+├── templates/         # Templates HTML para Flask
+├── app.py             # Arquivo principal que roda o servidor
+├── requirements.txt   # Dependências Python
+└── README.md
